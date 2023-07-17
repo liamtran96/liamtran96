@@ -4,7 +4,7 @@
 </div>
 
 - 👋 Hi, I’m Liam from VietNam
-- 👀 I’m interested in Javascipt, Typescript and Go
+- 👀 I’m interested in Javascipt, Typescript and NodeJS
 - How to reach me:  <a href="https://www.linkedin.com/in/quyet-tran-184a08172/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
